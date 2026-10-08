@@ -42,14 +42,14 @@ All background photos are from [Unsplash](https://unsplash.com) under the Unspla
 | 36 | Daily Bread | Maria Orlova | https://images.unsplash.com/photo-1549413468-cd78edb7e75c |
 | 37 | Contentment | Ales Dusa | https://images.unsplash.com/photo-1622038012495-ef45f24b2fe9 |
 | 38 | Thanks in the Valley | Polina Rytova | https://images.unsplash.com/photo-1529511582893-2d7e684dd128 |
-| 39 | Small Things | Mahdi Taherian | https://images.unsplash.com/photo-1661500291225-0fcdd4344c45 |
+| 39 | Small Things | Miguel Bruna | https://images.unsplash.com/photo-1515191107209-c28698631303 |
 | 40 | Gratitude and Comparison | Rutil Sharma | https://images.unsplash.com/photo-1607872828012-d0741c867edf |
 | 41 | A Thankful Body | Rock Staar | https://images.unsplash.com/photo-1638262052640-82e94d64664a |
 | 42 | Gratitude for People | Cristina Glebova | https://images.unsplash.com/photo-1626836014893-37663794dca7 |
 | 43 | Unearned Grace | Luis Quintero | https://images.unsplash.com/photo-1556848527-f7c548b972b2 |
 | 44 | Morning Gratitude | CHUTTERSNAP | https://images.unsplash.com/photo-1470549584009-d347338fc0ff |
 | 45 | Grateful for Hard Lessons | Jez Timms | https://images.unsplash.com/photo-1595024600400-2a49b9fce270 |
-| 46 | Generous Gratitude | Jorg Karg | https://images.unsplash.com/photo-1516542241506-ef0f5246dc91 |
+| 46 | Generous Gratitude | Ben White | https://images.unsplash.com/photo-1476018247111-83b9cd666ab8 |
 | 47 | Thankful Words | iStrfry , Marcus | https://images.unsplash.com/photo-1618420138990-25842589a7c4 |
 | 48 | Enough for Today | Victoria Shes | https://images.unsplash.com/photo-1559811814-e2c57b5e69df |
 | 49 | Gratitude Changes Perspective | Kira auf der Heide | https://images.unsplash.com/photo-1503758478129-c2cb56b6b64a |
@@ -142,7 +142,7 @@ All background photos are from [Unsplash](https://unsplash.com) under the Unspla
 | 136 | Faith Over Fear | Ivan Bandura | https://images.unsplash.com/photo-1565214975484-3cfa9e56f914 |
 | 137 | Courage to Change | Matt C | https://images.unsplash.com/photo-1575867094974-9e16b6f55360 |
 | 138 | Bold Prayer | Chris Chow | https://images.unsplash.com/photo-1541337082051-5959dbb57d5d |
-| 139 | The Courage of Endurance | Arleen wiese | https://images.unsplash.com/photo-1534188753412-3e26d0d618d6 |
+| 139 | The Courage of Endurance | Alessio Soggetti | https://images.unsplash.com/photo-1530143311094-34d807799e8f |
 | 140 | Vulnerability | Kamil Pietrzak | https://images.unsplash.com/photo-1630879937467-4afa290b1a6b |
 | 141 | Courage in Leadership | Ant Rozetsky | https://images.unsplash.com/photo-1488278905738-514111aa236c |
 | 142 | Facing Criticism | Valdemaras D. | https://images.unsplash.com/photo-1559912147-f62c767ec0e6 |
@@ -154,12 +154,12 @@ All background photos are from [Unsplash](https://unsplash.com) under the Unspla
 | 148 | Courage for Others | Matt C | https://images.unsplash.com/photo-1576707995936-a6cffe26ef7b |
 | 149 | Unafraid of Bad News | Ivan Bandura | https://images.unsplash.com/photo-1565643355044-000fbad87cc5 |
 | 150 | Courage to Trust | Francesco | https://images.unsplash.com/photo-1546182990-dffeafbe841d |
-| 151 | Overcoming | MARIOLA GROBELSKA | https://images.unsplash.com/photo-1614027164847-1b28cfe1df60 |
+| 151 | Overcoming | Chris Chow | https://images.unsplash.com/photo-1542468019-550cb643a5e3 |
 | 152 | The Armor of God | Navy Medicine | https://images.unsplash.com/photo-1758574926787-73d790e67ac5 |
 | 153 | A Courageous Month | Billy Pasco | https://images.unsplash.com/photo-1509149037-37dc57ccbd13 |
 | 154 | Created for a Purpose | Norbert Braun | https://images.unsplash.com/photo-1641531105535-1ead3c1784ab |
 | 155 | Known Before Birth | Courtney Corlew | https://images.unsplash.com/photo-1512649408904-c0a00fb810da |
-| 156 | Plans for Good | Armands Brants | https://images.unsplash.com/photo-1683484068227-276126368255 |
+| 156 | Plans for Good | Terrillo Walls | https://images.unsplash.com/photo-1649710025212-5b63cda94759 |
 | 157 | Your Gifts | Robert Schwarz | https://images.unsplash.com/photo-1691315040131-8785183c20e8 |
 | 158 | The Body Has Many Parts | Knut Troim | https://images.unsplash.com/photo-1523005505536-da8021509536 |
 | 159 | Calling in the Ordinary | Ryno Marais | https://images.unsplash.com/photo-1683115099413-5b7d85c2950c |
@@ -190,8 +190,8 @@ All background photos are from [Unsplash](https://unsplash.com) under the Unspla
 | 184 | Love Is Patient | Arifur Rahman | https://images.unsplash.com/photo-1582236158876-7e6a7410bcee |
 | 185 | God Is Love | Shelby Deeter | https://images.unsplash.com/photo-1484876632310-ddb3b48133cc |
 | 186 | Friendship | Helena Lopes | https://images.unsplash.com/photo-1511632765486-a01980e01a18 |
-| 187 | Iron Sharpens Iron | Samuel Girven | https://images.unsplash.com/photo-1594283255808-ee728c775ba6 |
-| 188 | Love Your Neighbor | Navy Medicine | https://images.unsplash.com/photo-1758575514459-8a9b37d68047 |
+| 187 | Iron Sharpens Iron | Cesar Millan | https://images.unsplash.com/photo-1747331796135-0e2354a712e4 |
+| 188 | Love Your Neighbor | Samantha Gades | https://images.unsplash.com/photo-1517456793572-1d8efd6dc135 |
 | 189 | Bearing With One Another | Mariano Rivas | https://images.unsplash.com/photo-1622398925373-3f91b1e275f5 |
 | 190 | Words That Heal | Jennifer Kalenberg | https://images.unsplash.com/photo-1696805122343-73c8f24c9196 |
 | 191 | Marriage and Commitment | Sandy Millar | https://images.unsplash.com/photo-1606800052052-a08af7148866 |
